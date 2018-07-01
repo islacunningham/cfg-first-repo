@@ -23,3 +23,10 @@ h1 {
 .my-nav {
   opacity: 0.5
 }
+
+.col-8 {
+  text-align:center;
+  padding-top: 50px;
+  margin:auto;
+
+}
