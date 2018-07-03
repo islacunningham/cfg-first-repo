@@ -1,12 +1,41 @@
 body {
-   background-image: url("../Images/background-image.jpg");
+  background-image: url("../Images/background-image.jpg");
+  background-size: cover;
 }
-
 h1 {
   font-family:sans-serif;
   text-align:center;
   font-weight:bold;
 }
+h2 {
+  font-family:sans-serif;
+  text-align:center;
+  font-weight:bold;
+  font-style: italic;
+}
+div.center {
+    height: 10em;
+    position: relative
+    margin: 0;
+    background: #9ACD32;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+    }
+.center {
+    line-height: 200px;
+    height: 200px;
+    text-align: center;
+    line-height:10;
+}
+div.center {
+  border-style: solid;
+  border-color: grey;
+  border-radius: 5px;
+}
+
 
 .ticket-wording {
   font-family:sans-serif;
