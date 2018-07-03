@@ -8,12 +8,24 @@ h1 {
   font-weight:bold;
 }
 
-p {
+.ticket-wording {
   font-family:sans-serif;
   text-align:center;
+  padding-top: 50px;
 }
 
-form {
+.ticket-form {
   text-align:center;
   font-family:sans-serif;
+}
+
+.my-nav {
+  opacity: 0.5
+}
+
+.col-8 {
+  text-align:center;
+  padding-top: 50px;
+  margin:auto;
+
 }
