@@ -72,6 +72,7 @@ div.center {
 
 .fa {
     padding: 20px;
+    margin: 5px;
     font-size: 30px;
     width: 70px;
     text-align: center;
@@ -103,14 +104,15 @@ div.center {
     bottom: 0;
     left: 0;
 }
+
 iframe {
-  align: middle;
+    margin-left: 25%;
+    margin-right: auto;
+    padding: 30px;
+   }
 
-}
-
-a {
-  text-decoration: none;
-  color: purple;
-  font-weight:bold;
-  font-size: 20px;
-}
+   img {
+       border-radius: 50%;
+       padding: 20px;
+       margin: 5px;
+   }
