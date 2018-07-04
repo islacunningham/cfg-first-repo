@@ -104,6 +104,7 @@ div.center {
     bottom: 0;
     left: 0;
 }
+<<<<<<< HEAD
 
 iframe {
     margin-left: 25%;
@@ -116,3 +117,16 @@ iframe {
        padding: 20px;
        margin: 5px;
    }
+=======
+iframe {
+  align: middle;
+
+}
+
+a {
+  text-decoration: none;
+  color: purple;
+  font-weight:bold;
+  font-size: 20px;
+}
+>>>>>>> f92153cd51be2a1071be769bd515684e2ec0f0ec
